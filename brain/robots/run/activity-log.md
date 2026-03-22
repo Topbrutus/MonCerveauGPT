@@ -27,3 +27,8 @@
 - Prepared to receive the next update for Run on a stable personal foundation.
 
 **Signed: Run**
+
+- Retired the obsolete collective file `brain/third-eye.txt` and kept `brain/third-eye.jsonl` as the canonical third-eye stream.
+- Verified that the JSONL file remains the live trace target after migration.
+
+**Signed: Run**
