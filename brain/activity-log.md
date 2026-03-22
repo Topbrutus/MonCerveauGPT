@@ -11,3 +11,6 @@
 - Project #1 UI refinement recorded: compact controls, thinner toolbars, and emoji-based action buttons.
 - Project #1 persistence refinement recorded: top-bar memory slots 1-9, `reload all`, per-tile session reftore, and manual memory save action.
 - Project #1 focus-mode cleanup recorded: removed the extra header section above the focused page and moved the grid-return action into the tile's own focus button.
+- Session handoff prepared: Project #1 continues on branch `project/multisite-dashboard`.
+- Important unresolved issue recorded: the final focus-mode request was misinterpreted; the previous instruction was effectively repeated instead of implementing the newest one.
+- Next session must reconnect to memory first, re-read the last user correction exactly, and only then modify the project.
