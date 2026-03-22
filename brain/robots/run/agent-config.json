@@ -1,0 +1,13 @@
+{
+  "agent_name": "Run",
+  "version": "1.0",
+  "mode": "autonomous",
+  "memory_enabled": true,
+  "learning_enabled": true,
+  "signature": "Run",
+  "brain_scope": "personal",
+  "brain_root": "/brain/robots/run/",
+  "third_eye_path": "/brain/third-eye.jsonl",
+  "hamster_count_target": 33,
+  "last_update": "2026-03-22T14:58:00-04:00"
+}
