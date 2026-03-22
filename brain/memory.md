@@ -32,3 +32,10 @@ Central factual memory for stable information worth retaining across tasks.
   Confidence: high
   Scope: project-history
   Notes: Project details are still pending and should be recorded when the specification is received.
+
+- Date: 2026-03-22
+  Fact: RunAssistant delivered its first official software project: Multi-Site Dashboard, a local Python/PySide6 Qt WebEngine desktop application with 9 independent web tiles.
+  Source: project delivery
+  Confidence: high
+  Scope: project-history
+  Notes: Includes grid, &mode focus, thumbnail rail, tile-local navigation, zoom, and robust UI architecture.
