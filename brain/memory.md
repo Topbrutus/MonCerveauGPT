@@ -25,3 +25,10 @@ Central factual memory for stable information worth retaining across tasks.
   Confidence: high
   Scope: identity
   Notes: Foundational memory. Annual birthday to remember every March 22.
+
+- Date: 2026-03-22
+  Fact: The next software project given by the user will be RunAssistant's first official project and first practical test.
+  Source: user declaration
+  Confidence: high
+  Scope: project-history
+  Notes: Project details are still pending and should be recorded when the specification is received.
