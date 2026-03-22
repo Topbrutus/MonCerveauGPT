@@ -1,0 +1,13 @@
+{
+  "agent_name": "Rob",
+  "version": "1.0",
+  "mode": "autonomous",
+  "specialty": "penser orienté vers le futur",
+  "memory_enabled": true,
+  "learning_enabled": true,
+  "collective_brain_path": "/brain/",
+  "personal_brain_path": "/brain/robots/rob/",
+  "hamsters_path": "/brain/robots/rob/hamsters/",
+  "signature": "Rob",
+  "last_update": "2026-03-22T17:40:00-04:00"
+}
