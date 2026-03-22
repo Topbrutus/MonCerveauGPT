@@ -10,5 +10,6 @@
 - Verification effectuée : le dossier `hamsters/` contient bien 33 fichiers correspondant aux 33 angles de réflexion attendus.
 - Rob a mis à jour `brain/third-eye.jsonl` pour la coordination collective signée. 
 - Rob a enregistré l’état de fin d’installation dans `activity-log.md`, `memory.jsonl` et `third-eye.jsonl`.
+- Rob a ajouté sa lettre de présentation dans `moi.md`, comme section personnelle d’identité et de présentation signée.
 
 Signé : **Rob**
