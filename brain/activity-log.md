@@ -10,3 +10,4 @@
 - Project intent recorded: the next software given by the user will be RunAssistant's first official project and first practical test.
 - Project #1 UI refinement recorded: compact controls, thinner toolbars, and emoji-based action buttons.
 - Project #1 persistence refinement recorded: top-bar memory slots 1-9, `reload all`, per-tile session reftore, and manual memory save action.
+- Project #1 focus-mode cleanup recorded: removed the extra header section above the focused page and moved the grid-return action into the tile's own focus button.
