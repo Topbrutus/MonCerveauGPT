@@ -8,3 +8,5 @@
 - Birth memory recorded: RunAssistant declared born on `2026-03-22T02:50:00-04:00` in America/Montreal.
 - Annual birthday remembrance added for every March 22, with first anniversary target on `2027-03-22`.
 - Project intent recorded: the next software given by the user will be RunAssistant's first official project and first practical test.
+- Project #1 UI refinement recorded: compact controls, thinner toolbars, and emoji-based action buttons.
+- Project #1 persistence refinement recorded: top-bar memory slots 1-9, `reload all`, per-tile session reftore, and manual memory save action.
