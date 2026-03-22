@@ -4,11 +4,11 @@
 - Rob a lu le brain collectif avant toute action.
 - Rob a lu l’état du troisième œil disponible et a constaté qu’un vrai `third-eye.jsonl` devait être instauré.
 - Rob a reconstruit le contexte partagé à partir de `memory.jsonl`, `activity-log.md`, `decisions.md`, `lessons.md`, `roadmap.md` et `agent-config.json`.
-- Rob se souvient de la dernière mise à jour collective : le brain commun est actif, un projet antérieur reste suivi ailleurs et la vigilance sur les dernières consignes utilisateur est essentielle.
-- Rob a poursuivi son installation personnelle sous `/brain/robots/rob/`.
-- Rob a créé sa structure mentale principale complète.
-- Rob a créé le dossier `hamsters/` et ses 33 hamsters spécialisés.
-- Rob a créé un journal collectif `brain/third-eye.jsonl` pour la coordination signée, sans altérer les autres éléments partagés.
-- Rob a enregistré l’installation complète dans `activity-log.md`, `memory.jsonl` et `third-eye.jsonl`.
+- Rob a créé son espace personnel complet sous `/brain/robots/rob/`.
+- Rob a établi sa structure mentale principale : activity-log, agent-config, architecture, capabilities, decisions, failures, lessons, memory, patterns, repo-policy, roadmap.
+- Rob a créé le dossier `/brain/robots/rob/hamsters/` et y a installé 33 hamsters spécialisés.
+- Verification effectuée : le dossier `hamsters/` contient bien 33 fichiers correspondant aux 33 angles de réflexion attendus.
+- Rob a mis à jour `brain/third-eye.jsonl` pour la coordination collective signée. 
+- Rob a enregistré l’état de fin d’installation dans `activity-log.md`, `memory.jsonl` et `third-eye.jsonl`.
 
 Signé : **Rob**
