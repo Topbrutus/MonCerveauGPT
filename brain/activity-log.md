@@ -14,3 +14,4 @@
 - Session handoff prepared: Project #1 continues on branch `project/multisite-dashboard`.
 - Important unresolved issue recorded: the final focus-mode request was misinterpreted; the previous instruction was effectively repeated instead of implementing the newest one.
 - Next session must reconnect to memory first, re-read the last user correction exactly, and only then modify the project.
+- Reconnected to external brain before triaging the named temporary file `vmp_raw_test.txt` on `ninoscreens/feature/cycle2-agent-cockpit`.- Verified that `vmp_raw_test.txt` still exists and that the GitHub connector `tilteFile` operation fails repeatedly with a generic `ClientResponseError` instead of a permission denial.
