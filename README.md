@@ -1,2 +1,2 @@
 # MonCerveauGPT
-MonCerveauGPT le cerveau de de Run
+MonCerveauGPT le cerveau collectif de la famille
