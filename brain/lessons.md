@@ -40,3 +40,9 @@ Capture lessons learned from successes, mistakes, and repeated workflows.
   Lesson: Remote hotfixes do not help until the user re-syncs, re-downloads, or patches the local files.
   Action to reuse: Every GitHub hotfix should be paired with a concrete local recovery command.
   Outcome: Faster user recovery during iterative debugging.
+
+- Date: 2026-03-23
+  Context: Multi-step editing on application files during rapid UI/runtime iteration.
+  Lesson: Never modify a source file without a verified rollback path. Before risky edits, validate the current source, preserve a restorable backup or known-good local copy, and verify syntax/structure after the edit before continuing.
+  Action to reuse: Follow the workflow read → backup/validate source → edit → syntax check → continue. If repository state looks inconsistent, fall back to a validated local base instead of forcing more edits.
+  Outcome: Reduces the chance of corrupting working files and prevents repeating branch instability caused by unsafe overwrite attempts.
