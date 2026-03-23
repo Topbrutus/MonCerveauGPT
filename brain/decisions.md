@@ -32,3 +32,10 @@ Record important decisions, rationale, trade-offs, and review points.
   Alternatives considered: Open a new branch and another PR cycle before repair.
   Risks: Direct-to-main fixes reduce review depth if overused.
   Review later: Keep direct hotfixes minimal and use them only for clear startup blockers.
+
+- Date: 2026-03-23
+  Decision: Treat pre-edit backup and post-edit verification as mandatory for risky file modifications.
+  Why: Recent work showed that editing on top of an uncertain file state can corrupt the source and waste time. A verified rollback path is safer than relying on assumptions about the current repository version.
+  Alternatives considered: Continue editing in place without backup; rely only on GitHub branch history for recovery.
+  Risks: Adds a small amount of overhead before changes.
+  Review later: Keep this as a standing rule for major or fragile edits, especially on core files like main window, navigation, state, and styles.
