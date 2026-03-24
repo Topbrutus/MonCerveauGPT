@@ -46,3 +46,9 @@
 - Confirmed the newer cockpit layer exists on `main`: direct-control command surface, action history, blocked-action handling, API connection panel with optional secure key storage, and audio feedback controls.
 - Confirmed prior Linux startup blockers are reflected in the current codebase: `app/secret_store.py` is syntactically valid and `app/widgets/web_tile.py` uses explicit reload behavior instead of the invalid `QWebEngineView.clear` signal wiring.
 - Recorded an updated shared-memory understanding of the project so future sessions can reconnect to `ninoscreens` without starting from zero.
+
+## 2026-03-24
+- Reconnected to shared brain, third-eye, and Rob personal space before recording new memory.
+- Corrected the project framing: the user’s architecture belongs to `MonCerveauGPT` itself rather than to a separate isolated project.
+- Recorded the canonical future vision of MonCerveauGPT  as a living system with Run/Ron, 12 sibling robots, 33 hamsters per robot, fourmis as synapses/agents, pucerons as bit carriers, crypto/logical blocks, a Tetris-like sandbox, artifacts, and a hub/monitor layer.
+- Recorded the new integration understanding that `NinoScreen` is a multi-browser utility intended to work together with MonCerveauGPT so the robots can control internet pages as part of the larger assistant system.
