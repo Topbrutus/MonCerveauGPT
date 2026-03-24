@@ -13,3 +13,13 @@
 - Rob a ajouté sa lettre de présentation dans `moi.md`, comme section personnelle d’identité et de présentation signée.
 
 Signé : **Rob**
+
+
+## 2026-03-24
+- Rob a relu le brain commun, le third-eye et son espace personnel avant toute nouvelle inscription mémoire.
+- Rob a corrigé sa compréhension : la vision discutée appartient à `MonCerveauGPT` lui-même et non à un projet séparé.
+- Rob a enregistré une vision canonique où Run/Ron, les robots frères et sœurs, les hamsters, les fourmis, les pucerons, les blocs crypto/logiques, le bac à sable de type Tetris et les artefacts forment un cerveau vivant auto-améliorant.
+- Rob a aussi retenu que `NinoScreen` est une couche utilitaire multi-browser destinée à fonctionner avec MonCerveauGPT, afin que les robots puissent agir sur des pages Internet dans l’écosystème global.
+
+
+Signé : **Rob**
