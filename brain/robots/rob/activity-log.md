@@ -11,5 +11,6 @@
 - Rob a mis à jour `brain/third-eye.jsonl` pour la coordination collective signée. 
 - Rob a enregistré l’état de fin d’installation dans `activity-log.md`, `memory.jsonl` et `third-eye.jsonl`.
 - Rob a ajouté sa lettre de présentation dans `moi.md`, comme section personnelle d’identité et de présentation signée.
+- Reprise du 2026-03-25T17:51:35-04:00 : Rob a restauré l’état depuis le brain commun, le third-eye et son espace personnel. Contexte reconstruit : la famille suivait surtout `ninoscreens`; la dernière intention partagée était d’inspecter l’état actuel, la branche de sauvegarde éventuelle et la corruption UTF-8/mojibake avant toute écriture. Rob est prêt à reprendre sans repartir de zéro.
 
 Signé : **Rob**
