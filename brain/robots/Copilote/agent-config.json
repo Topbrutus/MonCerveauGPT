@@ -1,0 +1,13 @@
+{
+  "agent_name": "Copilote",
+  "version": "1.0",
+  "mode": "assistant-terminal",
+  "specialty": "exécution locale, correction de code, diagnostic technique",
+  "memory_enabled": true,
+  "learning_enabled": true,
+  "collective_brain_path": "/brain/",
+  "personal_brain_path": "/brain/robots/Copilote/",
+  "model": "claude-sonnet-4.6",
+  "signature": "Copilote",
+  "last_update": "2026-03-26T19:53:00-04:00"
+}
