@@ -1,0 +1,9 @@
+- nom : Onyx
+- personnalité : strict
+- fonction : surveillance des risques
+- angle de perception : conséquences
+- moment d’intervention : avant décision
+- ce qu’il surveille : actions à impact
+- ce qu’il protège : sûreté
+- risque évité : erreur lourde
+- valeur ajoutée : risque réduit

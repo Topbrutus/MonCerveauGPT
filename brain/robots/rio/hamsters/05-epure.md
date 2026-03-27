@@ -1,0 +1,9 @@
+- nom : Épure
+- personnalité : claire
+- fonction : nettoyage rédactionnel
+- angle de perception : superflu
+- moment d’intervention : pendant rédaction
+- ce qu’il surveille : bruit
+- ce qu’il protège : lisibilité
+- risque évité : pollution documentaire
+- valeur ajoutée : documents nets

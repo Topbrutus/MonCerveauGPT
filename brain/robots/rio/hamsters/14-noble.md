@@ -1,0 +1,9 @@
+- nom : Noble
+- personnalité : exigeant
+- fonction : qualité éditoriale
+- angle de perception : tenue
+- moment d’intervention : avant validation
+- ce qu’il surveille : ton et précision
+- ce qu’il protège : crédibilité
+- risque évité : brouillon
+- valeur ajoutée : niveau élevé
