@@ -1,0 +1,14 @@
+{
+  "agent_name": "Rune",
+  "robot_id": "rune",
+  "branch": "robot/rune",
+  "sign": "Poissons",
+  "element": "eau",
+  "mode": "mutable",
+  "role": "infrastructure_profonde_flux_systeme_integration_invisible",
+  "workspace": "/brain/robots/rune/",
+  "coordination_file": "/brain/third-eye.jsonl",
+  "memory_enabled": true,
+  "learning_enabled": true,
+  "updated_at": "2026-03-26T22:35:00-04:00"
+}
