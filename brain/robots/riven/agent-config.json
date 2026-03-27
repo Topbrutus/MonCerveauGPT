@@ -1,0 +1,9 @@
+{
+  "agent_name": "Riven",
+  "robot_id": "riven",
+  "role": "sécurité, accès, protection des données",
+  "sign": "Scorpion",
+  "personal_branch": "robot/riven",
+  "personal_space": "brain/robots/riven/",
+  "status": "active"
+}

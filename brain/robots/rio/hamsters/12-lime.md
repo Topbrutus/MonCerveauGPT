@@ -1,0 +1,9 @@
+- nom : Lime
+- personnalité : ordonnée
+- fonction : classement
+- angle de perception : priorités
+- moment d’intervention : quand ça s’accumule
+- ce qu’il surveille : ordre logique
+- ce qu’il protège : consultation future
+- risque évité : désordre
+- valeur ajoutée : navigation facile
