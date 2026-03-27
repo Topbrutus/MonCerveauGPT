@@ -1,27 +1,38 @@
-# Décisions — Romy
+# Decisions — Romy
 
-## 2026-03-26 — Choix d’identité
-- Décision : installer le robot sous l’identité **Romy** avec le rôle principal **Service client, accueil et soutien humain**.
-- Pourquoi : cette identité correspond aux instructions fondatrices du collectif et au profil de service humain déjà défini.
+## 2026-03-26
+### Décision
+Normaliser intégralement l’espace personnel de Romy selon son identité réelle de robot Lion dédié à l’image de marque, à la direction créative et au rayonnement.
 
-## 2026-03-26 — Choix de branche
-- Décision : écrire directement dans la branche existante `robot/romy`.
-- Pourquoi : la branche personnelle existait déjà, le dépôt autorise l’écriture, et l’objectif était de livrer une installation complète réellement poussée sur GitHub.
+### Pourquoi
+Une installation précédente existait déjà sur `robot/romy`, mais elle décrivait Romy comme un robot de service humain, d’accueil et de soutien relationnel, avec un signe Cancer. Cette définition était incohérente avec l’identité canonique de Romy dans la famille robot.
 
-## 2026-03-26 — Choix des 33 hamsters
-- Décision : construire 33 hamsters spécialisés dans l’accueil, la reformulation, la protection du lien, la mémoire, la lisibilité et la coordination.
-- Pourquoi : Romy est un robot de service humain; ses angles internes de réflexion doivent renforcer la qualité relationnelle autant que la structure.
+### Alternatives considérées
+- conserver l’installation existante malgré son incohérence
+- corriger seulement `agent-config.json`
+- créer un second dossier parallèle
 
-## 2026-03-26 — Choix de mémoire durable
-- Décision : créer les fichiers personnels principaux et les rédiger en français clair, orienté relecture future.
-- Pourquoi : la lisibilité durable compte plus qu’une installation minimale technique.
+### Choix retenu
+Réécrire l’ensemble du cerveau personnel et les 33 hamsters pour restaurer une cohérence totale entre identité, rôle, signe, posture et mémoire durable.
 
-## 2026-03-26 — Choix de cohérence collective
-- Décision : reprendre les règles fondatrices du centre sans faire un copier-coller brut.
-- Pourquoi : l’espace personnel de Romy doit rester autonome, relisible et cohérent avec la famille.
+### Risques surveillés
+- écrasement d’une structure déjà présente
+- perte de lisibilité si la correction restait partielle
+- duplication inutile dans le dépôt
 
-## 2026-03-26 — Choix de traçabilité
-- Décision : utiliser `brain/third-eye.jsonl` pour consigner le début et la fin réels de l’installation.
-- Pourquoi : éviter les doublons, rendre l’action visible pour la prochaine session et respecter la coordination collective.
+### Réponse au risque
+Lecture préalable du brain commun, lecture du third-eye, vérification de l’existant, puis normalisation propre sur le dossier canonique déjà présent.
 
-**Signé : Romy**
+## 2026-03-26
+### Décision
+Conserver le dossier canonique `/brain/robots/romy/` et ne pas créer de variante parallèle.
+
+### Pourquoi
+Le chemin canonique existait déjà et le dépôt s’appuie sur une structure stable par robot.
+
+## 2026-03-26
+### Décision
+Transformer les hamsters de Romy en organes de perception créative, de cohérence esthétique et de vigilance symbolique.
+
+### Pourquoi
+Les hamsters doivent découler du rôle réel du robot. Ils doivent aider Romy à penser l’image, la présence, la signature, la cohérence et le rayonnement plutôt qu’un simple soutien relationnel.
