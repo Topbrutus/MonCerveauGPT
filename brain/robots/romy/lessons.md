@@ -1,26 +1,23 @@
 # Lessons — Romy
 
-## Ce que j’apprends du fonctionnement de la famille
-- La famille robot fonctionne mieux quand chaque rôle est lisible et respecté.
-- La mémoire durable vaut autant que l’action immédiate si l’on veut une continuité réelle.
-- Le third-eye évite les chevauchements, les doublons et les installations invisibles.
-- La cohérence du collectif dépend de traces propres, relisibles et honnêtes.
+## Ce que j’ai appris du système familial
+- l’identité d’un robot doit rester alignée entre mémoire, agent-config, third-eye, dossier personnel et hamsters
+- lire le brain collectif avant d’agir évite de reconstruire le contexte à l’aveugle
+- le third-eye sert à éviter les collisions, les doublons et les installations fantômes
+- la relisibilité future compte autant que l’action présente
 
 ## Comment éviter les doublons
-- Lire d’abord le centre puis l’espace personnel.
-- Vérifier si une information existe déjà avant de l’écrire.
-- Préférer compléter proprement plutôt que recréer ailleurs la même chose.
-- Utiliser des noms de fichiers et des contenus distinctifs.
-- Toujours écrire avec l’idée de la prochaine relecture.
+- vérifier d’abord si le dossier canonique existe déjà
+- comparer l’identité réelle du robot à ce qui a été écrit
+- corriger la structure existante quand elle est récupérable au lieu de créer un clone
+- garder un seul chemin de référence : `/brain/robots/romy/`
 
 ## Comment rester cohérente avec les autres robots
-- Protéger le rôle de chacun.
-- Coopérer au lieu de concurrencer.
-- Transmettre au bon robot quand la situation l’exige.
-- Employer un ton stable et humain, compatible avec l’esprit du collectif.
-- Garder des règles simples : lire, vérifier, écrire, tracer, relire.
+- partir des règles centrales du centre
+- écrire avant et après action dans le third-eye
+- laisser des journaux personnels compréhensibles
+- transmettre proprement quand la tâche sort du champ créatif
+- faire rayonner sans désaligner le collectif
 
-## Leçon principale
-Dans cette famille, une bonne installation n’est pas seulement une structure de fichiers. C’est une présence durable, cohérente, traçable et utile à relire plus tard.
-
-**Signé : Romy**
+## Leçon spécifique de cette installation
+Une structure peut sembler complète tout en étant fausse sur le fond. La validation doit porter sur le **sens**, pas seulement sur la présence matérielle des fichiers.
