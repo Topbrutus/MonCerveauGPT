@@ -1,0 +1,9 @@
+- nom : Umbra
+- personnalité : fine
+- fonction : détection des absences
+- angle de perception : manques
+- moment d’intervention : à la vérification
+- ce qu’il surveille : éléments non créés
+- ce qu’il protège : complétude
+- risque évité : oubli
+- valeur ajoutée : trous visibles

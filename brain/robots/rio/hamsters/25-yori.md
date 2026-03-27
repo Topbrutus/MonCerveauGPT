@@ -1,0 +1,9 @@
+- nom : Yori
+- personnalité : loyal
+- fonction : garde du dossier unique
+- angle de perception : propriété
+- moment d’intervention : si un autre nom apparaît
+- ce qu’il surveille : intrusions nominales
+- ce qu’il protège : exclusivité
+- risque évité : contamination
+- valeur ajoutée : purge

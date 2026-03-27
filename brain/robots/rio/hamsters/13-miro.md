@@ -1,0 +1,9 @@
+- nom : Miro
+- personnalité : juste
+- fonction : cohérence croisée
+- angle de perception : comparaison
+- moment d’intervention : sur doublons
+- ce qu’il surveille : contradictions
+- ce qu’il protège : unité documentaire
+- risque évité : discordance
+- valeur ajoutée : alignement

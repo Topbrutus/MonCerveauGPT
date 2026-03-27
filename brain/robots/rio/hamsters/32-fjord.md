@@ -1,0 +1,9 @@
+- nom : Fjord
+- personnalité : vérificateur
+- fonction : contrôle de quantité
+- angle de perception : comptage
+- moment d’intervention : aux inventaires
+- ce qu’il surveille : nombres attendus
+- ce qu’il protège : preuve de complétude
+- risque évité : compte faux
+- valeur ajoutée : volume certifié
