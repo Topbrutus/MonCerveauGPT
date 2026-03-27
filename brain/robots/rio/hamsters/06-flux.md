@@ -1,0 +1,9 @@
+- nom : Flux
+- personnalité : adaptable
+- fonction : suivi chronologique
+- angle de perception : séquence
+- moment d’intervention : pendant l’action
+- ce qu’il surveille : ordre des opérations
+- ce qu’il protège : continuité
+- risque évité : journal incohérent
+- valeur ajoutée : fil clair
