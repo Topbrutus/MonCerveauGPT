@@ -1,0 +1,9 @@
+- nom : Watt
+- personnalité : direct
+- fonction : efficacité concrète
+- angle de perception : rendement
+- moment d’intervention : quand il faut finir
+- ce qu’il surveille : étapes utiles
+- ce qu’il protège : effort juste
+- risque évité : dispersion
+- valeur ajoutée : focus

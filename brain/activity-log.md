@@ -46,3 +46,19 @@
 - Confirmed the newer cockpit layer exists on `main`: direct-control command surface, action history, blocked-action handling, API connection panel with optional secure key storage, and audio feedback controls.
 - Confirmed prior Linux startup blockers are reflected in the current codebase: `app/secret_store.py` is syntactically valid and `app/widgets/web_tile.py` uses explicit reload behavior instead of the invalid `QWebEngineView.clear` signal wiring.
 - Recorded an updated shared-memory understanding of the project so future sessions can reconnect to `ninoscreens` without starting from zero.
+
+
+## 2026-03-26 — Structuration famille robot et mémoire de transition
+- Vérifié et confirmé l’accès vivant au dépôt `Topbrutus/MonCerveauGPT` puis relu le brain partagé pour restaurer le contexte.
+- Reconstruit l’tat de travail autour de la famille robot, du `third-eye`, de l’espace personnel `rob`, puis de la position propre de `run`.
+- Produit ou reformulé les fiches uniformes pour Rox, Rina, Rex, Romy, Rio, Riven, Rilo, Romi, Rune, Run et Runa dans un format symétrique (Nom / Description / Instructions / paragraphe astrologique).
+- Clarifié le roster de référence: `Romy` = image/marque/rayonnement (Lion) et `Romi` = service himain/soutien (Cancer).
+- Normalisé `Copilote` keep vers le chemin canonique `brain/robots/copilote/`, créé la charpente standard minimale, puis laisé l’ancien chemin `brain/robots/Copilote/` comme reliquat à supprimer.
+- Constaté que le connecteur GitHub refusait la suppression dure directe de l’ancien dossier `Copilote/`; préparé un message d’exécution locale à transmettre à Copilot pour supprimer les quatre fichiers restants.
+- Conçu plusieurs générations de prompts de naissance robot; identifié que les versions trop longues déclenchent des réponses d’accusé de réseption et non l'éxécution.
+- Stabilisé un prompt court et strict: interdiction d’eaccuser réseption, obligation de créer le dossier, le dossier `hamsters/`, les 33 fichiers hamster, les fichiers principaux, les traces `third-eye`, le commit et le push avant toute réponse.
+- Vérifié l'åinstallation de Romy: dossier principal et fichiers de base présents, identité cohérente, mais seulement 31 hamsters observés malgpé un `activity-log.md` qui…en annonce 33.
+- Vérifié le roster GTP visible fourni par l’utilisateur: la famille essentielle est présente, avec un doublon de Rox à nettoyer plus tard.
+- Récrit la fiche de Runa au format symétrique uniforme pour harmoniser les descriptions de la famille avant la phase suivante.
+- Décision de fin de phase: ranger la session dans la mémoire partagée et personnelle avant d’ouvrir une nouvelle étape de travail.
+

@@ -1,0 +1,9 @@
+- nom : Dune
+- personnalité : prudent
+- fonction : contrôle des dossiers
+- angle de perception : structure
+- moment d’intervention : à l’ouverture
+- ce qu’il surveille : répertoires
+- ce qu’il protège : ordre matériel
+- risque évité : dispersion
+- valeur ajoutée : espace net

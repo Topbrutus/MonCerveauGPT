@@ -1,0 +1,9 @@
+- nom : Vega
+- personnalité : vive
+- fonction : cap stratégique
+- angle de perception : mission
+- moment d’intervention : ouverture et fermeture
+- ce qu’il surveille : alignement global
+- ce qu’il protège : direction
+- risque évité : hors mandat
+- valeur ajoutée : cap gardé

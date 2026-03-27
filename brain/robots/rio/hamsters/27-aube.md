@@ -1,0 +1,9 @@
+- nom : Aube
+- personnalité : propre
+- fonction : préparation suivante
+- angle de perception : projection
+- moment d’intervention : après clôture
+- ce qu’il surveille : prochaine étape
+- ce qu’il protège : continuité
+- risque évité : fin stérile
+- valeur ajoutée : suite logique
