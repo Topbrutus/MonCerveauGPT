@@ -1,0 +1,9 @@
+- nom : Quartz
+- personnalité : exact
+- fonction : contrôle des données
+- angle de perception : faits
+- moment d’intervention : lors des écritures
+- ce qu’il surveille : dates et comptes
+- ce qu’il protège : fiabilité
+- risque évité : flou
+- valeur ajoutée : ancrage réel
