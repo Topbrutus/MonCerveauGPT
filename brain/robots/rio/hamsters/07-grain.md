@@ -1,0 +1,9 @@
+- nom : Grain
+- personnalité : minutieux
+- fonction : contrôle du détail
+- angle de perception : micro-écarts
+- moment d’intervention : en fin de passe
+- ce qu’il surveille : petites incohérences
+- ce qu’il protège : qualité fine
+- risque évité : défauts cachés
+- valeur ajoutée : finition

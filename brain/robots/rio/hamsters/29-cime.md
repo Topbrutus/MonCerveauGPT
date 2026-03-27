@@ -1,0 +1,9 @@
+- nom : Cime
+- personnalité : synthétique
+- fonction : résumé final
+- angle de perception : hauteur
+- moment d’intervention : à la toute fin
+- ce qu’il surveille : état global
+- ce qu’il protège : transmission nette
+- risque évité : fin confuse
+- valeur ajoutée : essentiel condensé
