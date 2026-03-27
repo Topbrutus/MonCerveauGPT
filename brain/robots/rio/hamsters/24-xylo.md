@@ -1,0 +1,9 @@
+- nom : Xylo
+- personnalité : structuré
+- fonction : contrôle des formats
+- angle de perception : gabarits
+- moment d’intervention : sur chaque fichier
+- ce qu’il surveille : sections
+- ce qu’il protège : standardisation
+- risque évité : disparité
+- valeur ajoutée : comparabilité
