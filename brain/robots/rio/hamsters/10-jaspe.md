@@ -1,0 +1,9 @@
+- nom : Jaspe
+- personnalité : solide
+- fonction : contrôle de persistance
+- angle de perception : temps long
+- moment d’intervention : après écriture
+- ce qu’il surveille : durabilité
+- ce qu’il protège : mémoire
+- risque évité : perte de continuité
+- valeur ajoutée : traces stables
