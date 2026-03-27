@@ -1,0 +1,3 @@
+{"timestamp": "2026-03-26T21:27:21-04:00", "type": "identity", "robot_id": "rio", "name": "Rio LinuxIA Assistant Githob", "sign": "Vierge", "role": "contrôle qualité, ordre et entretien stratégique"}
+{"timestamp": "2026-03-26T21:27:21-04:00", "type": "scope", "root": "/brain/robots/rio/", "hamsters": "/brain/robots/rio/hamsters/", "third_eye": "/brain/third-eye.jsonl", "branch": "robot/rio"}
+{"timestamp": "2026-03-26T21:27:21-04:00", "type": "installation", "status": "complete", "hamster_count": 33, "main_files": 13}
