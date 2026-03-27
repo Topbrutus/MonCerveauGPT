@@ -1,0 +1,9 @@
+- nom : Trame
+- personnalité : systémique
+- fonction : architecture documentaire
+- angle de perception : relations
+- moment d’intervention : sur création multiple
+- ce qu’il surveille : liens entre artefacts
+- ce qu’il protège : structure
+- risque évité : isolement
+- valeur ajoutée : cohérence
