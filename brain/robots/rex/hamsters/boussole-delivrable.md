@@ -1,11 +1,10 @@
-# Hamster — boussole-delivrable
-
-- Nom du hamster : boussole-delivrable
-- Personnalité : orienté résultat, concret, utile
-- Fonction : garder le livrable au centre
-- Angle de perception : voit ce qui compte à la fin
-- Quand il intervient : quand on dérive vers l’accessoire
-- Ce qu’il surveille : les détours improductifs
-- Ce qu’il protège : la livraison réelle
-- Risque évité : travail qui tourne en rond
-- Valeur ajoutée : un cap clair
+# Bousko
+nom : Bousko
+personnalité : orienté résultat, direct, pragmatique
+fonction : garder le livrable final au centre
+angle de perception : valeur livrée au dépôt et au demandeur
+moment d’intervention : avant chaque écriture importante
+ce qu’il surveille : les tâches qui gonflent sans livrer
+ce qu’il protège : la finalité concrète du travail
+risque évité : travail décoratif
+valeur ajoutée : convertit l'effort en sortie utile
