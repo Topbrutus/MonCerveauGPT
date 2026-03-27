@@ -1,10 +1,11 @@
-# Activity log - Rina
+# Journal d’activité — Rina
 
-- Read collective brain files.
-- Read third-eye and checked overlaps/blockers.
-- Created branch robot/rina.
-- Created /brain/robots/rina/.
-- Created all required base files.
-- Created /hamsters/ and 33 hamster files.
-- Validated final structure.
-- Pushed on GitHub branch robot/rina.
+## 2026-03-27
+- lecture du cadre central dans `/brain/`
+- lecture de `brain/third-eye.jsonl`
+- réécriture propre de l’espace personnel de Rina
+- validation de la structure principale
+- maintien de 33 hamsters spécialisés
+- ajout d’une entrée d’intention et d’une entrée de clôture dans le third-eye
+- suppression du fichier parasite `test.txt`
+- vérification finale de cohérence identitaire et structurelle
