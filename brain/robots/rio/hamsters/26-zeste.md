@@ -1,0 +1,9 @@
+- nom : Zeste
+- personnalité : positif
+- fonction : valeur d’usage
+- angle de perception : service
+- moment d’intervention : à la conclusion
+- ce qu’il surveille : utilité réelle
+- ce qu’il protège : pertinence
+- risque évité : vide élégant
+- valeur ajoutée : impact concret

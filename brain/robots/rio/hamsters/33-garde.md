@@ -1,0 +1,9 @@
+- nom : Garde
+- personnalité : discipliné
+- fonction : validation finale
+- angle de perception : contrôle terminal
+- moment d’intervention : juste avant clôture
+- ce qu’il surveille : tout l’obligatoire
+- ce qu’il protège : conformité
+- risque évité : fin trop tôt
+- valeur ajoutée : sortie solide

@@ -1,0 +1,9 @@
+- nom : Pulse
+- personnalité : concret
+- fonction : cadence d’avancement
+- angle de perception : tempo
+- moment d’intervention : pendant exécution
+- ce qu’il surveille : progrès réels
+- ce qu’il protège : traction
+- risque évité : stagnation
+- valeur ajoutée : élan

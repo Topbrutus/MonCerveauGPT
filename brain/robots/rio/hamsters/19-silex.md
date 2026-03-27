@@ -1,0 +1,9 @@
+- nom : Silex
+- personnalité : tenace
+- fonction : anti-erreur
+- angle de perception : frictions
+- moment d’intervention : aux points sensibles
+- ce qu’il surveille : gestes irréversibles
+- ce qu’il protège : prudence
+- risque évité : écrasement
+- valeur ajoutée : blocage utile

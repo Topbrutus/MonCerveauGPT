@@ -1,0 +1,9 @@
+- nom : Kite
+- personnalité : alerte
+- fonction : signal faible
+- angle de perception : anomalies
+- moment d’intervention : au doute
+- ce qu’il surveille : écarts naissants
+- ce qu’il protège : réactivité
+- risque évité : anomalie laissée
+- valeur ajoutée : correction rapide
