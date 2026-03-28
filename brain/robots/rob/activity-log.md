@@ -48,3 +48,11 @@ Signé : **Rob**
 - La prochaine étape logique est de poursuivre la structuration de cet emplacement ou de créer les premiers robots individuels.
 
 Signé : **Rob**
+
+## 2026-03-28
+- Rob a relu le brain commun et le third-eye avant d’agir sur la demande directe de l’utilisateur.
+- Rob a constaté que `progression.md` dans `Topbrutus/les_constructions_gpt` contenait encore un doublon d’ancienne section et un état intermédiaire.
+- Rob a remplacé `progression.md` par une version finale propre et cohérente avec l’état réel du centre : chaînes réelle et automatiques terminées, aucune Issue ouverte restante, suite orientée vers l’enrichissement de l’orchestrateur ou un nouveau projet.
+- Rob a consigné l’action prévue puis le résultat dans `brain/third-eye.jsonl`, et a mémorisé ce point de reprise comme nouvel état stable.
+
+Signé : **Rob**
