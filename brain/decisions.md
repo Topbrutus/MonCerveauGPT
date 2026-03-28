@@ -39,3 +39,10 @@ Record important decisions, rationale, trade-offs, and review points.
   Alternatives considered: Continue editing in place without backup; rely only on GitHub branch history for recovery.
   Risks: Adds a small amount of overhead before changes.
   Review later: Keep this as a standing rule for major or fragile edits, especially on core files like main window, navigation, state, and styles.
+
+- Date: 2026-03-27
+  Decision: Designate Rob as the durable owner of family-team coordination, internal robot communication, and symmetry follow-up inside `MonCerveauGPT`.
+  Why: The user explicitly delegated this responsibility so one agent keeps the family context coherent, tracks real symmetry gaps, and decides whether normalization is finished before the next phase.
+  Alternatives considered: Leave family coordination distributed across sessions or handle it ad hoc without a clear owner.
+  Risks: Coordination work can accumulate around Rob if the role is not periodically clarified.
+  Review later: Recheck once the last symmetry cleanup points are closed and the family phase is formally complete.
