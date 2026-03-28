@@ -35,14 +35,21 @@ Record important decisions, rationale, trade-offs, and review points.
 
 - Date: 2026-03-23
   Decision: Treat pre-edit backup and post-edit verification as mandatory for risky file modifications.
-  Why: Recent work showed that editing on top of an uncertain file state can corrupt the source and waste time. A verified rollback path is safer than relying on assumptions about the current repository version.
+  Why: Recent work showed that editing on top of an uncertain file state can corrupt the source and waste time.
   Alternatives considered: Continue editing in place without backup; rely only on GitHub branch history for recovery.
   Risks: Adds a small amount of overhead before changes.
   Review later: Keep this as a standing rule for major or fragile edits, especially on core files like main window, navigation, state, and styles.
 
 - Date: 2026-03-27
   Decision: Designate Rob as the durable owner of family-team coordination, internal robot communication, and symmetry follow-up inside `MonCerveauGPT`.
-  Why: The user explicitly delegated this responsibility so one agent keeps the family context coherent, tracks real symmetry gaps, and decides whether normalization is finished before the next phase.
+  Why: The user explicitly delegated this responsibility so one agent keeps the family context coherent.
   Alternatives considered: Leave family coordination distributed across sessions or handle it ad hoc without a clear owner.
   Risks: Coordination work can accumulate around Rob if the role is not periodically clarified.
   Review later: Recheck once the last symmetry cleanup points are closed and the family phase is formally complete.
+
+- Date: 2026-03-28
+  Decision: Freeze the current NinoScreen state as the handoff baseline only after split, per-tile split memory in-session, icon rendering, and split-size memory are working well enough for the user.
+  Why: The user wants to end this overloaded session without losing the exact working state. The immediate goal is continuity, not another risky UI pass.
+  Alternatives considered: Keep iterating on polish features like extra split buttons before recording the stable baseline.
+  Risks: Some desired persistence is still incomplete, especially durable restart persistence for split/session state.
+  Review later: Resume from this exact stable point, make persistence durable first, then move to the RUN/GPT control phase.
