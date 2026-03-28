@@ -15,7 +15,7 @@ Capture lessons learned from successes, mistakes, and repeated workflows.
   Context: Initial setup of external memory repository.
   Lesson: Create a dedicated branch before structural changes to reduce risk.
   Action to reuse: Use a working branch for initialization and structural updates.
-  Outcome: safer repository bootstrap
+  Outcome: Safer repository bootstrap.
 
 - Date: 2026-03-22
   Context: Iterative UI corrections on Project #1.
@@ -44,5 +44,11 @@ Capture lessons learned from successes, mistakes, and repeated workflows.
 - Date: 2026-03-23
   Context: Multi-step editing on application files during rapid UI/runtime iteration.
   Lesson: Never modify a source file without a verified rollback path. Before risky edits, validate the current source, preserve a restorable backup or known-good local copy, and verify syntax/structure after the edit before continuing.
-  Action to reuse: Follow the workflow read → backup/validate source → edit → syntax check → continue. If repository state looks inconsistent, fall back to a validated local base instead of forcing more edits.
+  Action to reuse: Follow the workflow read → backup/validate source → edit → syntax check → continue.
   Outcome: Reduces the chance of corrupting working files and prevents repeating branch instability caused by unsafe overwrite attempts.
+
+- Date: 2026-03-28
+  Context: Long NinoScreen split/focus session on Linux with many local patches.
+  Lesson: For this project, the safest rhythm is stabilize one behavior at a time on the user's local working copy: first make split work, then per-tile split memory, then icon rendering, then split-size memory. Pushing unfinished persistence or unrelated polish too early causes regressions and user fatigue.
+  Action to reuse: Resume exactly from the last stable working local state, protect it, then attack the next missing persistence layer before any RUN/GPT control work.
+  Outcome: Ended the session with split working, icons working, and a clear next target instead of another broken refactor.
