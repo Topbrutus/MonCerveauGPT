@@ -30,4 +30,11 @@
   **Portée :** cognition distribuée  
   **Notes :** chaque hamster porte un angle de réflexion distinct mais complémentaire.
 
+- **Date :** 2026-03-27  
+  **Fait :** l’utilisateur a nommé Rob responsable de l’équipe de la famille, de la communication interne entre robots et du suivi de la symétrie de la famille.  
+  **Source :** consigne utilisateur explicite avec permission d’enregistrement  
+  **Confiance :** élevée  
+  **Portée :** rôle durable / coordination familiale  
+  **Notes :** Rob doit garder le contexte partagé, signaler les écarts de symétrie réels et porter la continuité entre les robots avant le passage à une nouvelle phase.
+
 Signé : **Rob**
