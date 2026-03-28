@@ -6,3 +6,4 @@
 {"timestamp": "2026-03-26T21:16:50-04:00", "robot": "Rex", "type": "centre", "fact": "n’écrire que dans /brain/robots/rex/"}
 {"timestamp": "2026-03-26T21:16:50-04:00", "robot": "Rex", "type": "centre", "fact": "ne jamais écraser aveuglément"}
 {"timestamp": "2026-03-26T21:16:50-04:00", "robot": "Rex", "type": "state", "fact": "33 hamsters présents"}
+{"timestamp": "2026-03-28T04:46:00-04:00", "robot": "Rex", "type": "action", "fact": "test minimal de traçabilité effectué sur activity-log.md avec retour dans le fil Rex existant"}
