@@ -40,3 +40,11 @@ Signé : **Rob**
 - La prochaine étape logique retenue dans le fichier de progression est de créer un emplacement pour les robots ou agents.
 
 Signé : **Rob**
+
+## 2026-03-28
+- Rob a repris exactement à l’étape 7 après la création de `progression.md` et de-clà create du drapeau d’avancement.
+- Rob a relu le `third-eye` avant action, puis a vérifié que `robots/README.md` était absent dans `Topbrutus/les_constructions_gpt`.
+- Rob a créé `robots/README.md` à la racine du dépôt central actif pour établir l’emplacement dédié aux robots, agents et GPT.
+- La prochaine étape logique est de poursuivre la structuration de cet emplacement ou de créer les premiers robots individuels.
+
+Signé : **Rob**
