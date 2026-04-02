@@ -1,0 +1,5 @@
+{"ts":"2026-04-02","type":"fix","projet":"depanneurIA","desc":"Clé Gemini révoquée — hardcodée dans index.ts. Fix: process.env.ANTHROPIC_API_KEY"}
+{"ts":"2026-04-02","type":"fix","projet":"depanneurIA","desc":"Chat web-store cassé — CORS sur appel direct api.anthropic.com. Fix: route /api/chat dans backend"}
+{"ts":"2026-04-02","type":"fix","projet":"depanneurIA","desc":"Prix vide après génération IA. Fix: prompt Gemini avec exemple et instruction jamais vide"}
+{"ts":"2026-04-02","type":"setup","desc":"Mémoire persistante créée en local + dans MonCerveauGPT/brain/robots/claude/"}
+{"ts":"2026-04-02","type":"user","desc":"Gaby — Linux openSUSE, depanneurIA, français québécois, Claude Code CLI + voice dictation"}
