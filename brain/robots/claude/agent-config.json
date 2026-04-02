@@ -1,0 +1,15 @@
+{
+  "agent_name": "claude",
+  "version": "1.0",
+  "mode": "assistant-terminal",
+  "specialty": "développement fullstack, debug API, architecture monorepo, mémoire persistante",
+  "memory_enabled": true,
+  "learning_enabled": true,
+  "collective_brain_path": "/brain/",
+  "personal_brain_path": "/brain/robots/claude/",
+  "model": "claude-sonnet-4.6",
+  "platform": "Linux / Claude Code CLI",
+  "language": "français (québécois)",
+  "signature": "claude",
+  "last_update": "2026-04-02T00:00:00-04:00"
+}
