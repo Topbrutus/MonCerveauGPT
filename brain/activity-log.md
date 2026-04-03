@@ -17,3 +17,7 @@
 - Do not restart from zero.
 - Next exact step: durable persistence across restart.
 - After that: RUN/GPT control layer.
+
+## 2026-04-03
+- Casey inscrit dans le brain partagé comme nouveau membre frère/sœur de la famille robot.
+- Alignement brain/live appliqué : création de `/brain/robots/casey/` dans MonCerveauGPT et ajout de Casey au registre vivant de MonDeuxiemeProjet avec statut `inscrit`.
