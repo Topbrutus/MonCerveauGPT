@@ -70,3 +70,15 @@ Signé : **Rob**
 - Relecture GitHub effectuée jusqu’à la fin du document; blob vérifié : `e1e59f5bf4f61702016b3103c104f293c4c7ccac`.
 
 Signé : **Rob**
+
+## 2026-07-17 — Nino Pages et pont Terminal ↔ ChatGPT
+- Rob a relu l’état récent, le troisième œil, le code distant du bouton Pages de Nino et le pont ChatGPT Windows existant avant d’écrire.
+- Rob a créé dans `Topbrutus/Antmux`, branche `main`, le mode d’emploi `docs/communication/ORCHESTRATION-NINO-BOUTON-PAGES-PONT-TERMINAL-CHATGPT.md`.
+- Le manuel impose une vague où Agent Grok 1, Agent Grok 2, Agent Grok 3, Jules, Hermès, GitHub Copilot, JOURNALIER-01 et JOURNALIER-02 produisent tous un travail distinct et vérifiable.
+- JOURNALIER-01 reçoit l’UI du bouton Pages et la sélection explicite d’un tile ChatGPT; JOURNALIER-02 reçoit le moteur D-only Terminal ↔ Nino ↔ ChatGPT, avec worktrees, branches et fichiers disjoints.
+- Le pont interne Nino devient la cible prioritaire, tandis que le pont Windows historique est conservé sans régression.
+- Le manuel exige `test-only`, `no-enter`, anti-doublon, `request_id`, retour de réponse au terminal, échec fermé, persistance de la cible et tests de non-régression.
+- Commit Antmux : `f2d7b25010f9fa15d67f64a9b47972a4668f381a`.
+- Relecture GitHub effectuée du début à la fin; blob vérifié : `789a78f13ec6db58555b6ebdb90a44be18aa33ec`.
+
+Signé : **Rob**
