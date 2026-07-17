@@ -82,3 +82,16 @@ Signé : **Rob**
 - Relecture GitHub effectuée du début à la fin; blob vérifié : `789a78f13ec6db58555b6ebdb90a44be18aa33ec`.
 
 Signé : **Rob**
+
+## 2026-07-17 — Boucle parallèle, Obsidian et Hermès
+- Rob a relu l’état Antmux récent, la configuration de son brain et les règles de concurrence déjà actées avant de rédiger.
+- Rob a créé dans `Topbrutus/Antmux`, branche `main`, le mode d’emploi `docs/communication/CONFIGURER-BOUCLE-PARALLELE-OBSIDIAN-HERMES.md`.
+- Le document définit une boucle fermée résiliente avec registre de jobs, états, événements append-only, worktrees exclusifs, leases, heartbeats, idempotence, checkpoints, retry et dead-letter queue sous `D:\`.
+- Obsidian y est établi comme bibliothèque canonique; Hermès devient le libraire unique et le seul écrivain automatique dans le coffre réel.
+- Hermès produit un `memory-pack.md` avant chaque job et mémorise les commits, tests, incidents, décisions et la reprise exacte après validation.
+- La capacité parallèle reste structurée : Reine-LinuxIA avec deux Journaliers, Grok 3 avec Grok 1 et Grok 2, Jules et Copilot en parallèle, Hermès préparant la job suivante pendant l’exécution de la job courante.
+- Le manuel contient un prompt central directement copiable, un prompt séparé pour Hermès et des tests d’acceptation de concurrence, reprise, idempotence, D-only et sécurité.
+- Commit Antmux : `4ce6a8c4429333d324119376610bfe5425cf2b0e`.
+- Relecture GitHub effectuée; blob vérifié : `128f43aa6adc2a35fcae44dee656611cd8d9c323`.
+
+Signé : **Rob**
