@@ -14,4 +14,11 @@
 - **Correction :** créer le journal attendu sans altérer les autres éléments collectifs.
 - **Prévention :** vérifier les fichiers de coordination avant d’appliquer les règles de traçabilité.
 
+## 2026-07-31
+- **Échec :** impossible de conserver le mode d’emploi des 100 étapes dans `Topbrutus/robotic-arm-companion`.
+- **Cause :** le dépôt n’est pas visible dans la connexion GitHub active; `get_repo` et `create_file` ont retourné HTTP 404, et la pagination complète des dépôts accessibles ne contient pas ce dépôt.
+- **Détection :** résolution directe du dépôt, recherche exacte, recherche par propriétaire et tentative d’écriture sur `main`.
+- **Correction requise :** reconnecter ou autoriser `Topbrutus/robotic-arm-companion`, ou créer le dépôt s’il n’existe pas encore, puis écrire `docs/communication/MODE-EMPLOI-100-ETAPES-COLONIE-V1.md` intégralement et le relire sur GitHub.
+- **Prévention :** vérifier la visibilité réelle du dépôt live avant toute opération documentaire obligatoire et ne jamais substituer un autre dépôt.
+
 Signé : **Rob**
